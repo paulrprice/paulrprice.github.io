@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paul Price"
+  name             : "Paul Price – researcher and consultant"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "climate change science and climate action – Ireland"
-  location         : "Somewhere"
+  location         : "Dublin, Ireland"
   email            :
   links:
     - label: "Email"
