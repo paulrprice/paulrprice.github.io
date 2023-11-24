@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /docs/about/
+    url: /_docs/about/
   - title: "Posts"
     url: /year-archive/
   - title: "Research"
