@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paul Price – researcher and consultant"
+  name             : "Paul Price – climate action researcher and consultant"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "climate change science and climate action – Ireland"
   location         : "Dublin, Ireland"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:paul.price.climate@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
