@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "climate change science and climate action – Ireland"
   location         : "Dublin, Ireland"
-  email            :
+  email            : "paul.price.climate@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
