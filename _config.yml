@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul R. Price"
+title                    : "Paul R. Price – researcher – climate change science and policy"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Paul R. Price"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Paul Price"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Climate change science and policy"
+  bio              : "Climate change science and policy – Ireland"
   location         : "Dublin, Ireland"
   email            :
   links:
@@ -135,10 +135,7 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
